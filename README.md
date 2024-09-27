@@ -21,3 +21,7 @@ This is where i document my first project while learning D.A with Incubator Hub.
 ```SQL
 SELECT * from table
 Where condition = TRUE
+
+
+🥈
+💻
